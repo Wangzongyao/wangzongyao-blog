@@ -1,5 +1,5 @@
 ---
-title: webpack：可替换模板字符串[name]/[id]/...等变量名释义
+title: webpack【可替换模板字符串[name]/[id]/...等变量名释义】
 date: 2020-08-29 00:00:00
 tags: webpack
 ---
